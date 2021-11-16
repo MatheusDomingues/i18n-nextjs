@@ -1,6 +1,13 @@
+# Resume
+
+This project was created to present how to implement internationalization using the [react-intl](https://www.npmjs.com/package/react-intl) library 
+
+
+# Getting Started with Create Next App
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Available Scripts
 
 First, run the development server:
 
